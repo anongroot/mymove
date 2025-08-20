@@ -9337,10 +9337,10 @@ filepond-plugin-image-preview@^4.6.11:
   resolved "https://registry.npmjs.org/filepond-plugin-image-preview/-/filepond-plugin-image-preview-4.6.11.tgz"
   integrity sha512-0EmQ9HnOb/X0xc5rLcNRhhmdUbp7oiicRwQrcr90ZfVmPJOOZoX3ZGUEsEPj7luMI55huguhcVozdESxtqnuRw==
 
-filepond-polyfill@^1.0.2:
-  version "1.0.4"
-  resolved "https://registry.npmjs.org/filepond-polyfill/-/filepond-polyfill-1.0.4.tgz"
-  integrity sha512-ERBcCzqXadQB4mUaG34IOCsLStVpuG3F4a/nyYYeJLAfBIkT9DbQcJpIqcRQM+T3DyiNi1iZnq3rusFcQRaSMg==
+filepond-polyfill@^1.0.5:
+  version "1.0.5"
+  resolved "https://registry.yarnpkg.com/filepond-polyfill/-/filepond-polyfill-1.0.5.tgz#c8f65a147bc208b66c6ca86ab40cb34b7bc79670"
+  integrity sha512-atkv/CsZZbt0QGE1Ny+O2HdMtmDp6CxZGlp61FdFbXnNEMYAbW76wqZ/PlwuOSieg4kDjo8OcF7jlYcU9ekMGQ==
 
 filepond@^4.31.1:
   version "4.31.1"
