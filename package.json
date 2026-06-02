@@ -33,7 +33,7 @@
     "https-browserify": "^1.0.0",
     "is-mobile": "4.0.0",
     "jest-canvas-mock": "^2.5.2",
-    "js-cookie": "^3.0.5",
+    "js-cookie": "^3.0.8",
     "js-yaml": "^4.1.0",
     "jsonexport": "^3.2.0",
     "lodash": "^4.17.21",
