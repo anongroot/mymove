@@ -34,7 +34,7 @@
     "is-mobile": "4.0.0",
     "jest-canvas-mock": "^2.5.2",
     "js-cookie": "^3.0.5",
-    "js-yaml": "^4.1.0",
+    "js-yaml": "^5.2.2",
     "jsonexport": "^3.2.0",
     "lodash": "^4.17.21",
     "moment": "^2.30.1",
