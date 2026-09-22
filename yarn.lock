@@ -9342,10 +9342,10 @@ filepond-polyfill@^1.0.2:
   resolved "https://registry.npmjs.org/filepond-polyfill/-/filepond-polyfill-1.0.4.tgz"
   integrity sha512-ERBcCzqXadQB4mUaG34IOCsLStVpuG3F4a/nyYYeJLAfBIkT9DbQcJpIqcRQM+T3DyiNi1iZnq3rusFcQRaSMg==
 
-filepond@^4.31.1:
-  version "4.31.1"
-  resolved "https://registry.npmjs.org/filepond/-/filepond-4.31.1.tgz"
-  integrity sha512-yWYK91Ky72L2AG7BlI8Cb0UjvJz+DjuYdLN1JbkJg8qmoiZ9AU5b5MuOkHmExk/9jQ5R7tRT+H+b8wDiFEJlxQ==
+filepond@^4.32.12:
+  version "4.32.12"
+  resolved "https://registry.yarnpkg.com/filepond/-/filepond-4.32.12.tgz#ddc6551401d0ee1602c577affa75409daf6a21ce"
+  integrity sha512-wro0/deLwua9CkL7HJygOlDaPo1c7Ov8kfzbZjH7m4hdi56gdHGDeRWnYa+qXnRm3Lty69gUGVFb3JZy/9vT8g==
 
 filesize@^8.0.6:
   version "8.0.7"
